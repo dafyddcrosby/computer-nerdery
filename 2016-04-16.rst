@@ -1,0 +1,58 @@
+Computer Nerdery
+================
+:date: 2016-04-16
+
+Woo! A second one! I've set up an archive at
+https://github.com/dafyddcrosby/computer-nerdery in addition to the one
+TinyLetter provides, just as future-proofing. Thanks to Mo K. for mentioning
+that I didn't provide the subscribe link at
+https://tinyletter.com/computer-nerdery
+
+On the impending crypto monoculture
+-----------------------------------
+
+Or 'wow, the next generation of crypto is hosed if DJB gets hit by a bus'
+
+http://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html
+
+Not smart is not stupid
+-----------------------
+
+Another nice tedu rant.
+
+http://www.tedunangst.com/flak/post/not-smart-is-not-stupid
+
+Debugging Heisenbugs
+--------------------
+
+"Heisenbugs are mentally difficult for programmers to deal with. It is very
+frustrating to have something that eludes clear methodical debugging, and where
+you are forced into speculation, experiments and even debugging based on vague
+statistics. But a single Heisenbug can derail a project, especially if it is
+not addressed as soon as possible."
+
+http://cowboyprogramming.com/2008/03/23/debugging-heisenbugs/
+
+cvdazzle - avoiding facial recognition using tricks from dazzle ships
+---------------------------------------------------------------------
+
+As deep learning becomes more of a thing, I suspect dazzle camo will need to
+extend to more than just faces 
+
+https://cvdazzle.com/
+
+ddrescue - data recovery without dealing with timeouts due to read-errors
+-------------------------------------------------------------------------
+
+A dd with crappy old hard drives in mind
+
+https://www.gnu.org/software/ddrescue/
+
+
+Copperhead OS
+-------------
+
+A hardened Android port, but will be curious about its survival if Google does
+that work on their own...
+
+https://copperhead.co/android/
