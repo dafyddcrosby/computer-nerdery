@@ -1,0 +1,54 @@
+Computer Nerdery
+================
+:date: 2016-04-15
+
+Yep, finally starting a newsletter, after years of "I'm gonna start a
+newsletter!" Please throw ideas for content, as well as any good links you come
+across, as I imagine this will kind of be the 'in-between' stuff between proper
+blog posts (whatever that means) :-) Will keep to ~5 links/tips an email so
+it's something you can flip through while eating a bowl of cereal. I don't know
+how often I'll do this (or is even desirable).
+
+Neat service of the day
+-----------------------
+
+`curl wttr.in/calgary`
+
+There are no hard subjects, only missing prerequisites
+------------------------------------------------------
+
+Truth. Hot patching kernels is way less scary once you've got the underlying
+knowledge of what's entailed.
+
+https://www.scotthyoung.com/blog/2016/04/12/no-hard-subjects/
+
+Abusing the /dev filesystem with bash
+-------------------------------------
+
+Because who doesn't love bash tricks?
+
+http://tldp.org/LDP/abs/html/devref1.html
+
+Kestrel Project, an open-source open-hardware personal computer
+---------------------------------------------------------------
+
+While it's a bit tilting-at-windmills, I really want projects like this to succeed
+
+http://kestrelcomputer.github.io/kestrel/
+
+Man accidentally deletes his company with rm -rf
+------------------------------------------------
+
+IMO you can't blame `rm` on this one - a system design that can't
+tolerate/recover from that mistake is too brittle to begin with.
+
+http://www.independent.co.uk/life-style/gadgets-and-tech/news/man-accidentally-deletes-his-entire-company-with-one-line-of-bad-code-a6984256.html
+
+"Punch-Out" Easter egg discovered 29 years later
+------------------------------------------------
+
+I wonder if anyone's RE'd the binary to look for the rest of these...
+
+http://thenextweb.com/shareables/2016/04/11/punch-out-has-an-easter-egg-that-went-undiscovered-for-29-years/
+
+If you liked this, feel free to tell other people to sign up.
