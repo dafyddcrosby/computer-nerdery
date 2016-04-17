@@ -42,7 +42,7 @@ Man accidentally deletes his company with rm -rf
 IMO you can't blame `rm` on this one - a system design that can't
 tolerate/recover from that mistake is too brittle to begin with.
 
-http://www.independent.co.uk/life-style/gadgets-and-tech/news/man-accidentally-deletes-his-entire-company-with-one-line-of-bad-code-a6984256.html
+UPDATED: Apparently this was a hoax. Above still stands.
 
 "Punch-Out" Easter egg discovered 29 years later
 ------------------------------------------------
