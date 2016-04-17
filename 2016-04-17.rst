@@ -1,0 +1,49 @@
+Computer Nerdery
+================
+:date: 2016-04-17
+
+It's a bit late in the contest, but you can still spend some time enjoying the
+world's largest trivia contest at http://90fmtrivia.org - great music, and
+the hosts get loopy from sleep deprivation on the last day.
+
+A Really Interesting Tape Drive Algorithm
+-----------------------------------------
+
+Once you get past the click-bait title, this one's a really good read. Give the
+Vitter paper it references a read too, if you've got the time.
+
+https://getkerf.wordpress.com/2016/03/30/the-best-algorithm-no-one-knows-about/
+
+Is the security of quantum computing guaranteed by the laws of physics?
+-----------------------------------------------------------------------
+
+DJB kills it again. Worth it for the abstract alone.
+
+https://sidechannels.cr.yp.to/qkd/holographic-20160326.pdf
+
+AlphaGo: How It Works
+---------------------
+
+A really good overview of the techniques used to drive AlphaGo, the computer
+that beat Lee Sedol recently
+
+https://www.tastehit.com/blog/google-deepmind-alphago-how-it-works/
+
+A Decade of Wasted Cores
+------------------------
+
+Some researchers found 4 different bugs in the Linux scheduler that left cores
+unutilized while there were threads waiting. Their paper gives a good
+background to how Linux has handled scheduling over the years
+
+http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf
+
+Shattering Reality
+------------------
+
+I really hadn't thought too much of how glass breakage is simulated in video
+games, but it turns out to be a computationally hard problem. It's got me
+wanting to re-play some of my games that I know have glass breaking (like GTA
+Vice City and Red Faction) and see how well they handle breakage.
+
+http://cowboyprogramming.com/2007/01/05/shattering-reality/
